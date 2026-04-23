@@ -4,7 +4,7 @@
 The core analytical problem is exploring Amazon sales structure, fulfilment channel efficiency and revenue contribution rules across different price segments. The intended users of this report are e-commerce operational managers and financial analysts, who need data conclusions to adjust pricing strategies and logistics allocation plans.
 
 ## 2. Data
-- Data source: Public Amazon online order sales dataset（from Kaggle）
+- Data source: Public Amazon online order sales dataset（from Kaggle:https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data）
 - Data access date: April 2026
 - Total records: 128,975 rows
 - Key fields: Order ID, transaction amount (Amount), order quantity (Qty), fulfilment logistics type, order date, product category, price level classification
